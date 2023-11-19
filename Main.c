@@ -1,8 +1,8 @@
 /*
- * Mini_Project3.c
+ * Main.c
  *
  *  Created on: Oct 14, 2023
- *      Author: hp
+ *      Author: manal
  */
 #include <avr/io.h>
 #include "gpio.h"
