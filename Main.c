@@ -1,9 +1,3 @@
-/*
- * Main.c
- *
- *  Created on: Oct 14, 2023
- *      Author: manal
- */
 #include <avr/io.h>
 #include "gpio.h"
 #include "lm35_sensor.h"
