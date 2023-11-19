@@ -1,10 +1,3 @@
-/*
- * dcmotor.h
- *
- *  Created on: Oct 14, 2023
- *      Author: hp
- */
-
 #ifndef DCMOTOR_H_
 #define DCMOTOR_H_
 #include "std_types.h"
