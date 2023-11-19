@@ -1,9 +1,3 @@
-/*
- * dcmotor.c
- *
- *  Created on: Oct 14, 2023
- *      Author: hp
- */
 #include "dcmotor.h"
 #include "gpio.h"
 #include "std_types.h"
